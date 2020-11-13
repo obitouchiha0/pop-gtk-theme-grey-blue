@@ -1,7 +1,7 @@
-#### Modified version of default pop os gtk theme, with some blue accent
+Modified version of default pop os gtk theme, with some blue accent
+--------------------------
 I replaced the brownese titlebar with dark-grey
 Changed the accent color to light blue
--------------------
 
 <p align="center">
  Light <br/>
