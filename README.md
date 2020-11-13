@@ -1,12 +1,9 @@
 Modified version of default pop os gtk theme, with some blue accent
 --------------------------
-I replaced the brownese titlebar with dark-grey
-Changed the accent color to light blue
+I replaced the brownese titlebar with dark-grey and changed the accent color to light blue.
 
 <p align="center">
- Light <br/>
  <img src="https://raw.githubusercontent.com/obitouchiha0/pop-gtk-theme-grey-blue/master/light.png"/>
- Dark <br/>
  <img src="https://raw.githubusercontent.com/obitouchiha0/pop-gtk-theme-grey-blue/master/dark.png"/>
 </p>
 
