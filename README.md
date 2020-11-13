@@ -1,9 +1,12 @@
-<p align="center">
-</p>
-
+#### Modified version of default pop os gtk theme, with some blue accent
 -------------------
 
-A GTK+ theme for Pop!_OS 
+<p align="center">
+ Light
+ <img src="https://raw.githubusercontent.com/obitouchiha0/pop-gtk-theme-grey-blue/master/light.png"/>
+ Dark
+ <img src="https://raw.githubusercontent.com/obitouchiha0/pop-gtk-theme-grey-blue/master/dark.png"/>
+</p>
 
 
 ### Required Components
@@ -31,35 +34,7 @@ Pop supports Gtk+ 3.22.x
 
 
 ### Installation
-
-Pop is intended to be installed through the package manager. Packages for Pop are available in PPA:
-```
-sudo add-apt-repository ppa:system76/pop
-sudo apt update
-sudo apt install pop-theme
-```
-It's recommended to use the `pop-theme` metapackage, as this will pull in all components of the look. However, individual components can be installed separately, e.g:
-```
-sudo apt install pop-gtk-theme
-```
-It's also recommended to restart the GNOME Shell after applying the theme of your choice.
-
-Enter the Shell's command launcher
-```
-Alt + F2
-```
-
-This will restart the Shell after you hit Enter
-```
-r
-```
-
-
-
-### Installation from Git Source
 ----------------------------
-
-This is the recommended method for users who aren't on Pop.
 
 ###### Note: You must have sassc installed in order to build Pop. Users of 17.04 or later can all build-dependencies using:
 
@@ -102,23 +77,3 @@ You shouldn't need to rebuild the entire theme after modifications. If you make
 changes to any GTK3 or GTK2 assets, delete the old rendered copies and use the
 `render-assets.sh` script to regenerate those with new ones with your 
 modifications. 
-
-TODO
-----
-* Prepare for Steam theming (priority: Low)
-
-Public License
---------------
- Most files: GPL-3.0+
- Upstream Adwaita: LGPLv2.1
- Sound theme: CC-BY-SA-4.0
-
-
- > **Note:**
- >
- > SVG files are licensed under CC BY-SA 4.0
-
-Special Thanks to
---------------
- Nana-4, the developer of Materia.
- tista500 and the Adapta Theme Project: https://github.com/adapta-project/
