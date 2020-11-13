@@ -1,5 +1,4 @@
 <p align="center">
-<img src="https://github.com/system76/pop-gtk-theme/raw/master/Pop_gtk-logo.png"/>
 </p>
 
 -------------------

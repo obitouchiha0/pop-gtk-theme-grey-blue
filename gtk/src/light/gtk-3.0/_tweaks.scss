@@ -524,7 +524,7 @@ button.titlebutton {
   }
 
   &.close {
-    $_close_button_color: mix(#FFAD00, #E56A54, 50%);
+    $_close_button_color: #3d9fb8;
     color: $headerbar_fg_color;
     @include draw_circle($_close_button_color);
 
