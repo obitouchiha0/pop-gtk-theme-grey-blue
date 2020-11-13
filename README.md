@@ -2,9 +2,9 @@
 -------------------
 
 <p align="center">
- Light
+ Light <br/>
  <img src="https://raw.githubusercontent.com/obitouchiha0/pop-gtk-theme-grey-blue/master/light.png"/>
- Dark
+ Dark <br/>
  <img src="https://raw.githubusercontent.com/obitouchiha0/pop-gtk-theme-grey-blue/master/dark.png"/>
 </p>
 
