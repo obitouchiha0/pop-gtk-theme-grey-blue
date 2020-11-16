@@ -5,6 +5,8 @@ I replaced the brownese titlebar with dark-grey and changed the accent color to 
 <p align="center">
  <img src="https://raw.githubusercontent.com/obitouchiha0/pop-gtk-theme-grey-blue/master/light.png"/>
  <img src="https://raw.githubusercontent.com/obitouchiha0/pop-gtk-theme-grey-blue/master/dark.png"/>
+ <img src="https://raw.githubusercontent.com/obitouchiha0/pop-gtk-theme-grey-blue/master/checkbox-light.png"/>
+ <img src="https://raw.githubusercontent.com/obitouchiha0/pop-gtk-theme-grey-blue/master/checkbox-dark.png"/>
 </p>
 
 
